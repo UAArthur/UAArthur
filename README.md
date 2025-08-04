@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm UAArthur
+# 👋 Hi there, I'm Arthur
 
 ## 🧠 About Me
 
@@ -10,8 +10,7 @@ Game and Software developer
 
 - **IDEs & Editors**: IntelliJ IDEA, CLion, Rider  
 - **Game Engines**: Unreal Engine  
-- **Version Control**: Git, GitHub  
-- **Build Tools**: Maven, Gradle, CMake  
+- **Build Tools**: Maven, Gradle
 - **OS Preference**: Windows
 
 ---
